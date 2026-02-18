@@ -9,7 +9,7 @@ The company is facing employee attrition. The goal is to identify drivers of tur
 ## 🛠 Tools Used
 - MySQL
 - Python (Pandas, Matplotlib)
-- Power BI
+- Tableau
 - Excel
 
 ## 📊 Key Insights
