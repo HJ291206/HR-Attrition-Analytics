@@ -22,8 +22,6 @@ The company is facing employee attrition. The goal is to identify drivers of tur
 - data/ → Raw dataset
 - sql/ → SQL analysis queries
 - notebooks/ → Python EDA
-- dashboard/ → Power BI dashboard
+- dashboard/ → Tableau dashboard
 - reports/ → Final report
 
-## 📈 Dashboard Preview
-(Add screenshot here)
